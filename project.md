@@ -44,7 +44,7 @@ If it's not possible or practical to include your entire dataset, you should lin
 ## Milestones
 
 
-### December 5: Project proposal
+### March 12: Project proposal
 
 What are two or three potential questions you would like to try and answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose this data? Upload this as a **MARKDOWN** file in your the repo you created for the project. Keep in mind these might not be your final questions, but I want you to start thinking as soon as possible. 
 
@@ -56,6 +56,6 @@ Example:
 * I chose this topic because I'm fascinated by the history of the Titanic.
 
 
-### January 18: Final Project due and Presentations
+### April 23: Final Project due and Presentations
 
 Deliver your project presentation in class, and submit all required deliverables (slides, code, data, and data dictionary).
